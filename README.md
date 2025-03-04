@@ -1,4 +1,4 @@
-# Ortesis de Bajo Presupuesto
+# Ortesis de Bajo Presupuesto Impresa en 3D
 
 Este es un proyecto de CAD para una ortesis diseñada para ayudar a un amigo. La ortesis ha sido creada pensando en la facilidad de impresión, uso y ajuste, con un diseño que permite adaptarse a diferentes grados de movimiento. Su objetivo es ofrecer una solución accesible, económica y funcional para aquellos que necesiten un dispositivo de asistencia.
 
