@@ -18,7 +18,7 @@ El diseño está disponible de forma gratuita para que cualquiera pueda descarga
 
 ## Instalación
 
-1. Descarga el archivo STL desde este repositorio.
+1. Descargar los archivos STL desde este repositorio.
 2. Abre el archivo en tu software de impresión 3D preferido.
 3. Imprime las piezas utilizando material adecuado (se recomienda PLA para facilidad de uso).
 4. Ensambla las piezas según las instrucciones proporcionadas.
