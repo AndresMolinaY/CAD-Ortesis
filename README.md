@@ -30,11 +30,15 @@ La ortesis es completamente ajustable y se puede personalizar para adaptarse a d
 ##Galeria
 
 -Base
+
 ![image](https://github.com/user-attachments/assets/8675da84-355f-4ab1-b0ea-5218c23340e8)
+
 -Mecanismo de Limitación de Movimiento
+
 ![image](https://github.com/user-attachments/assets/2164370e-1606-4cdb-af5f-33df12b325e9)
 
 - Producto Final
+
 ![image](https://github.com/user-attachments/assets/54e15f10-97d3-431e-83ac-80f1ad8e0151)
 ![image](https://github.com/user-attachments/assets/2abfbab0-acad-472d-bfcc-4ee086fd6656)
 
