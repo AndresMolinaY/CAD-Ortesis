@@ -33,6 +33,12 @@ La ortesis es completamente ajustable y se puede personalizar para adaptarse a d
 
 ![image](https://github.com/user-attachments/assets/8675da84-355f-4ab1-b0ea-5218c23340e8)
 
+-Tornillos para Limitar
+
+![WhatsApp Image 2024-11-24 at 21 16 28_d6e0d1e1](https://github.com/user-attachments/assets/7a776249-746e-40f7-b204-6b262f68d0a8)
+![WhatsApp Image 2024-11-24 at 21 16 27_432e88db](https://github.com/user-attachments/assets/f2a5ac50-756b-4211-982e-06c794ddf278)
+
+
 -Mecanismo de Limitación de Movimiento
 
 ![image](https://github.com/user-attachments/assets/2164370e-1606-4cdb-af5f-33df12b325e9)
@@ -41,6 +47,10 @@ La ortesis es completamente ajustable y se puede personalizar para adaptarse a d
 
 ![image](https://github.com/user-attachments/assets/54e15f10-97d3-431e-83ac-80f1ad8e0151)
 ![image](https://github.com/user-attachments/assets/2abfbab0-acad-472d-bfcc-4ee086fd6656)
+
+-Producto Final Físico
+
+![WhatsApp Image 2024-11-24 at 21 55 42_d333ba29](https://github.com/user-attachments/assets/b279924e-3126-49a5-a25f-badf8c79cc4c)
 
 
 
